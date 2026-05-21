@@ -4,7 +4,7 @@ Hello 😇 I am Vivek Pradhan
 - 🌱 I’m currently learning all new technologies.
 - 👯 I’m looking to collaborate on github
 - 🤔 I’m looking for help with ...
-<br>🌱 Learning MERN Stack<br>💻 Aspiring Full Stack Developer<br>🚀 Passionate about building useful web apps<br>🤝 Open to collaborations & learning new things<br>
+<br>🌱 Learning Java full-Stack<br>💻 Aspiring Full Stack Developer<br>🚀 Passionate about building useful web apps<br>🤝 Open to collaborations & learning new things<br>
 
 
 ## 🌐 Socials:
